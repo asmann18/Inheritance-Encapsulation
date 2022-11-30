@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\bin\Debug\net6.0\TelebeYaziqdiElemeyin.exe
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\bin\Debug\net6.0\TelebeYaziqdiElemeyin.deps.json
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\bin\Debug\net6.0\TelebeYaziqdiElemeyin.runtimeconfig.json
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\bin\Debug\net6.0\TelebeYaziqdiElemeyin.dll
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\bin\Debug\net6.0\TelebeYaziqdiElemeyin.pdb
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.dll
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\refint\TelebeYaziqdiElemeyin.dll
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.pdb
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\TelebeYaziqdiElemeyin.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TelebeYaziqdiElemeyin\TelebeYaziqdiElemeyin\obj\Debug\net6.0\ref\TelebeYaziqdiElemeyin.dll
